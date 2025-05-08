@@ -12,6 +12,6 @@ All the code can be run with ease with google colab
 
 ## Colab Demo  
 
-You can try training and inference using the following Google Colab notebook:  
+You can try training and inference using the following Google Colab notebook (need to use GPU for training):  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pierrre1618/depth-isnet/blob/main/isnet_depth.ipynb)  
