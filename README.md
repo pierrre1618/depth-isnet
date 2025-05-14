@@ -8,7 +8,7 @@ Unlike the original ISNet, which takes a standard 3-channel RGB image as input, 
 
 This modification improves results compared to the standard 3-channel ISNet trained with the same parameters. Additionally, the model is easily exportable to **ONNX** and **CoreML**, making it suitable for deployment across various platforms.
 
-All the code can be run with ease with google colab
+All the code can be run with ease with google colab (models already trained for demo)
 
 ## Colab Demo  
 
